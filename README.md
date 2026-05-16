@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### Databases & Cloud
+### Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -76,13 +76,19 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
 ## Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="left">
+  <img width="100%" src="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-snake.svg" alt="GitHub contribution snake" />
+</p>
 
 ## Awards & Achievements
 
@@ -114,8 +120,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:">Email</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  <a href="mailto:">Email</a> |
+  <a href="https://www.linkedin.com/">LinkedIn</a> |
   <a href="https://github.com/jefferzyn">Portfolio</a>
 </p>
 
