@@ -95,15 +95,12 @@
 
 ## Currently Learning
 
-- Advanced Kubernetes for scalable AI deployments
-- LangGraph multi-agent orchestration patterns
-- Vector databases for RAG systems
+- LLMs with RAG systems
 
 ## Languages
 
 <p align="left">
-  <strong>Fluent:</strong> English, Russian, Kyrgyz<br>
-  <strong>Proficient:</strong> Turkish, Kazakh
+  <strong>Fluent:</strong> English and Spanish
 </p>
 
 ## Let's Connect!
