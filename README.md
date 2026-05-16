@@ -22,15 +22,6 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-<p align="left">
-  <img width="49%" height="220" src="https://github-readme-stats.vercel.app/api?username=jefferzyn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="jefferzyn's GitHub stats" />
-  <img width="49%" height="220" src="https://streak-stats.demolab.com?user=jefferzyn&theme=tokyonight&hide_border=true" alt="jefferzyn's GitHub streak" />
-</p>
-
-<p align="left">
-  <img width="49%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferzyn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="jefferzyn's top languages" />
-</p>
-
 ## Featured Project
 
 <p align="left">
