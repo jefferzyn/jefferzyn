@@ -5,33 +5,37 @@
 </p>
 
 <p align="left">
-  💻 Working on projects that make software easier to build, present, and understand<br>
-  🌎 Sharing open-source tools, templates, and experiments on GitHub<br>
-  🚀 Currently featuring <strong>Best-README-Template</strong><br>
-  🤝 Open to collaborating on interesting ideas and useful developer tools
+  - Working on projects that make software easier to build, present, and understand<br>
+  - Sharing open-source tools, templates, and experiments on GitHub<br>
+  - Currently featuring <strong>pallet-pal</strong><br>
+  - Open to collaborating on interesting ideas and useful developer tools
 </p>
 
 <p align="left">
   <a href="https://github.com/jefferzyn">
     <img src="https://img.shields.io/badge/GitHub-jefferzyn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/jefferzyn/Best-README-Template">
-    <img src="https://img.shields.io/badge/Featured-Best_README_Template-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Best README Template" />
+  <a href="https://github.com/jefferzyn/pallet-pal">
+    <img src="https://img.shields.io/badge/Featured-pallet--pal-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="pallet-pal" />
   </a>
 </p>
 
-## GitHub Stats
+<h3 align="left">GitHub Stats</h3>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jefferzyn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="jefferzyn's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=jefferzyn&theme=tokyonight&hide_border=true" alt="jefferzyn's GitHub streak" />
+  <img width="49%" height="220" src="https://github-readme-stats.vercel.app/api?username=jefferzyn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="jefferzyn's GitHub stats" />
+  <img width="49%" height="220" src="https://streak-stats.demolab.com?user=jefferzyn&theme=tokyonight&hide_border=true" alt="jefferzyn's GitHub streak" />
+</p>
+
+<p align="left">
+  <img width="49%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferzyn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="jefferzyn's top languages" />
 </p>
 
 ## Featured Project
 
 <p align="left">
-  <a href="https://github.com/jefferzyn/Best-README-Template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefferzyn&repo=Best-README-Template&theme=tokyonight&hide_border=true" alt="Best README Template repository card" />
+  <a href="https://github.com/jefferzyn/pallet-pal">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jefferzyn&repo=pallet-pal&theme=tokyonight&hide_border=true" alt="pallet-pal repository card" />
   </a>
 </p>
 
@@ -79,3 +83,42 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## Awards & Achievements
+
+| Achievement | Details |
+| --- | --- |
+| National Cyber League | Top 3% (Spring 2025), Top 4% (Fall 2024) |
+| ICPC Regional | Top 5 (2025), Top 10 (2024) |
+| AWS Certified | Cloud Architect Certification 2025 |
+| NSF Research | Software Engineer & Research Assistant |
+| Dean's List | Distinguished (4x) + Honors (4x) |
+
+## Currently Learning
+
+- Advanced Kubernetes for scalable AI deployments
+- LangGraph multi-agent orchestration patterns
+- Vector databases for RAG systems
+
+## Languages
+
+<p align="left">
+  <strong>Fluent:</strong> English, Russian, Kyrgyz<br>
+  <strong>Proficient:</strong> Turkish, Kazakh
+</p>
+
+## Let's Connect!
+
+<p align="left">
+  Open to collaborating on AI/ML projects and full-stack applications.
+</p>
+
+<p align="left">
+  <a href="mailto:">Email</a> ·
+  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  <a href="https://github.com/jefferzyn">Portfolio</a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jefferzyn&style=flat-square&color=555555" alt="Profile views" />
+</p>
