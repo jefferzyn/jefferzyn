@@ -86,9 +86,11 @@
 
 ## Contribution Snake
 
-<p align="left">
-  <img width="100%" src="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-snake.svg" alt="GitHub contribution snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jefferzyn/jefferzyn/output/github-snake.svg" />
+</picture>
 
 ## Awards & Achievements
 
