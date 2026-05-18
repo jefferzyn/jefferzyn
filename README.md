@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm jefferzyn!</h1>
+<h1 align="left">Hey, I'm jefferson!</h1>
 
 <p align="left">
   <strong>Developer building clean, useful projects and polished documentation</strong>
